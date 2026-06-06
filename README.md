@@ -51,18 +51,6 @@ Welcome to my digital space! I'm **Elia**, a Full-Stack Developer & **DevOps Ent
 
 ---
 
-## 📊 GitHub Stats / إحصائيات جيت هاب السماوية
-
-<div align="center">
-  <!-- كارت إحصائيات الحساب باسم المستخدم aloosh101 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aloosh101&show_icons=true&theme=cyan&title_color=0077b6&icon_color=00b4d8&text_color=03045e&bg_color=f0f8ff" alt="Elia's GitHub Stats" />
-  <br /><br />
-  <!-- كارت اللغات الأكثر استخداماً باسم المستخدم aloosh101 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloosh101&layout=compact&theme=cyan&title_color=0077b6&icon_color=00b4d8&text_color=03045e&bg_color=f0f8ff" alt="Elia's Top Languages" />
-</div>
-
----
-
 <!-- عداد زوار البروفايل باسم المستخدم aloosh101 -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aloosh101&color=00b4d8&style=flat-square&label=Profile+Views" alt="Views" />
