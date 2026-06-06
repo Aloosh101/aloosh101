@@ -8,7 +8,7 @@
 ## 🚀 About Me / لِمَحة عني
 
 <div dir="rtl">
-أهلاً بك في مساحتي الرقمية! أنا <b>إيليا</b>، مطور ويب متكامل (Full-Stack Developer) ومهتم بمجال <b>الديف أوبس (DevOps)</b>، من مواليد 2007. شغوف جداً باستكشاف أعماق التكنولوجيا، وتحديداً في مجالات <b>الأنظمة المدمجة والذكاء الاصطناعي (الروبوتات)</b>. أعتمد على الذكاء الاصطناعي كشريك ذكي لتسريع وتيرة عملي وتححول الأفكار المعقدة إلى واقع ملموس، وأعشق التعلم المستمر <b>وأتعلم المزيد يوماً بعد يوم...</b>
+أهلاً بك في مساحتي الرقمية! أنا <b>إيليا</b>، مطور ويب متكامل (Full-Stack Developer) ومهتم بمجال <b>الديف أوبس (DevOps)</b>، من مواليد 2007. شغوف جداً باستكشاف أعماق التكنولوجيا، وتحديداً في مجالات <b>الأنظمة المدمجة والذكاء الاصطناعي (الروبوتات)</b>. أعتمد على الذكاء الاصطناعي كشريك ذكي لتسريع وتيرة عملي وتحويل الأفكار المعقدة إلى واقع ملموس، وأعشق التعلم المستمر <b>وأتعلم المزيد يوماً بعد يوم...</b>
 </div>
 
 <br />
@@ -30,16 +30,17 @@ Welcome to my digital space! I'm **Elia**, a Full-Stack Developer & **DevOps Ent
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&color=03045e" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&color=0077b6" alt="Next.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&color=00b4d8" alt="NestJS" />
-  <!-- شارة مهارات إضافية -->
-  <img src="https://img.shields.io/badge/%2B%20المزيد%20...-00b4d8?style=for-the-badge&color=03045e" alt="More" />
+  <!-- شارة مهارات إضافية بالإنجليزية -->
+  <img src="https://img.shields.io/badge/%2B%20More%20...-03045e?style=for-the-badge&color=00b4d8" alt="More" />
 </p>
 
 ### ⚙️ DevOps & Tools / أدوات الديف أوبس والتحكم
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&color=0077b6" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=00b4d8" alt="Git" />
-  <!-- شارة مهارات إضافية -->
-  <img src="https://img.shields.io/badge/%2B%20المزيد%20...-00b4d8?style=for-the-badge&color=90e0ef&labelColor=0077b6" alt="More Tools" />
+  <img src="https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=linux&logoColor=white&color=00b4d8" alt="systemd" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=90e0ef" alt="Git" />
+  <!-- شارة مهارات إضافية بالإنجليزية -->
+  <img src="https://img.shields.io/badge/%2B%20More%20...-00b4d8?style=for-the-badge&color=03045e" alt="More Tools" />
 </p>
 
 ### 🤖 Future & Current Focus / مجالات الاهتمام الحالية والمستقبلية
@@ -53,16 +54,16 @@ Welcome to my digital space! I'm **Elia**, a Full-Stack Developer & **DevOps Ent
 ## 📊 GitHub Stats / إحصائيات جيت هاب السماوية
 
 <div align="center">
-  <!-- كارت إحصائيات الحساب باسم المستخدم الجديد aloosh101 -->
+  <!-- كارت إحصائيات الحساب باسم المستخدم aloosh101 -->
   <img src="https://github-readme-stats.vercel.app/api?username=aloosh101&show_icons=true&theme=cyan&title_color=0077b6&icon_color=00b4d8&text_color=03045e&bg_color=f0f8ff" alt="Elia's GitHub Stats" />
   <br /><br />
-  <!-- كارت اللغات الأكثر استخداماً باسم المستخدم الجديد aloosh101 -->
+  <!-- كارت اللغات الأكثر استخداماً باسم المستخدم aloosh101 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloosh101&layout=compact&theme=cyan&title_color=0077b6&icon_color=00b4d8&text_color=03045e&bg_color=f0f8ff" alt="Elia's Top Languages" />
 </div>
 
 ---
 
-<!-- عداد زوار البروفايل باسم المستخدم الجديد aloosh101 -->
+<!-- عداد زوار البروفايل باسم المستخدم aloosh101 -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aloosh101&color=00b4d8&style=flat-square&label=Profile+Views" alt="Views" />
 </div>
